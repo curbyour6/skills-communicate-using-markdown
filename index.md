@@ -3,3 +3,14 @@
 ## This is an `<h2>` header
 
 ###### This is an `<h6>` header, which is the smallest
+
+# h1
+## h2
+### h3
+#### h4
+##### h5
+###### h6
+
+doing some markdown changes for testing
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
